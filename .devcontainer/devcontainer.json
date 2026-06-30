@@ -1,5 +1,5 @@
 {
-  "name": "Alpine Desktop Codespace",
+  "name": "Debian Desktop Codespace",
   "build": {
     "dockerfile": "Dockerfile"
   },
