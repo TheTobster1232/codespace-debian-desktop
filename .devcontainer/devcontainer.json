@@ -4,5 +4,5 @@
     "dockerfile": "Dockerfile"
   },
   "runArgs": ["--privileged"],
-  "postCreateCommand": "chmod +x /workspaces/codespace-alpine-desktop/start-desktop.sh"
+  "postCreateCommand": "chmod +x .devcontainer/start-desktop.sh"
 }
